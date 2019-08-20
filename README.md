@@ -8,4 +8,4 @@
 
 ## 缓存
 
-- [ ] [图文讲解Cache-Control](https://github.com/Xixi20160512/translations/issues/3)
+- [x] [图文讲解Cache-Control](https://github.com/Xixi20160512/translations/issues/3)

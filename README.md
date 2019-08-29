@@ -4,7 +4,7 @@
 
 ## Node
 
-- [ ] [容器中Node.js应用内存使用情况分析](https://github.com/Xixi20160512/translations/issues/4)
+- [x] [容器中Node.js应用内存使用情况分析](https://github.com/Xixi20160512/translations/issues/4)
 
 ## 缓存
 

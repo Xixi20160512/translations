@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ./actions/issues/Dockerfile
+      - uses: ./actions/issues/
         name: run my issues-action

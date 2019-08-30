@@ -1,8 +1,0 @@
-name: issues-list
-description: just list all issues in a clean way
-runs:
-  using: docker
-  image: Dockerfile
-branding:
-  icon: coffee
-  color: orange

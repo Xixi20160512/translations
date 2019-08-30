@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ./issues-action
+      - uses: Xixi20160512/issues-list@v0.2
         name: run my issues-action
